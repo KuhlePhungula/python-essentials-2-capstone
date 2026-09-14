@@ -27,12 +27,12 @@ def data_report():
     print("Today's date:", today.strftime("%A, %d %B %Y"))
     print("Current timestamp:", now)
 
-    year = today.year()
-    month = today.month()
+    year = today.year
+    month = today.month
 
     month_name = calendar.month_name[month]
     is_leap = calendar.isleap(year)
-    days_in_month = calendar.monthrange(year, month)
+    days_in_month = calendar.monthrange(year, month[1])
 
     print("Current Month:", month_name)
     print(f"Is {year} a leap year?", is_leap)
