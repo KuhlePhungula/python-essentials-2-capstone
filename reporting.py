@@ -32,7 +32,7 @@ def data_report():
 
     month_name = calendar.month_name[month]
     is_leap = calendar.isleap(year)
-    days_in_month = calendar.monthrange(year, month[1])
+    days_in_month = calendar.monthrange(year, month)[1]
 
     print("Current Month:", month_name)
     print(f"Is {year} a leap year?", is_leap)

@@ -1,10 +1,10 @@
-mosa, 50
-  Kuhle, 49
- Lisa, 92
- Lisa, 23
- akira, 88
-SANDISIWE, 56
-remo, 6
-sam , 63
- akira, 5
-remo, 43
+sam , 76
+sam , 88
+jack, 8
+UWAIZ  , 63
+mosa, 27
+ Lisa, 47
+SANDISIWE, 12
+JOHN, 83
+ Lisa, 35
+SANDISIWE, 57
